@@ -1,2 +1,2 @@
-# My-first-online-db
+# My-first-db
 Nothing special, just an exercise
